@@ -43,6 +43,8 @@ body {
 
 }
 
+/* Start of change all "div" to nav elements */
+
 .header nav {
 
     padding-top: 15px;
@@ -71,7 +73,7 @@ body {
 
 }
 
-/* End of header styles */
+/* End of header styles & change to all "div" elements to nav */
 
 
 /* Start of anchor style */
